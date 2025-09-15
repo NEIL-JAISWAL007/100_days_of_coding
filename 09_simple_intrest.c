@@ -1,7 +1,7 @@
 /*
 Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
-
 Sample Test Cases:
+
 Input 1:
 1000 5 2
 Output 1:
