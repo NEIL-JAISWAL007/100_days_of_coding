@@ -1,6 +1,6 @@
 /*
-Q22: Write a program to find profit or loss percentage given cost price and selling price.
 
+Q22: Write a program to find profit or loss percentage given cost price and selling price.
 Sample Test Cases:
 Input 1:
 1000 1200
