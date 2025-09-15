@@ -1,6 +1,6 @@
 /*
-Q5: Write a program to convert temperature from Celsius to Fahrenheit.
 
+Q5: Write a program to convert temperature from Celsius to Fahrenheit.
 Sample Test Cases:
 Input 1:
 0
