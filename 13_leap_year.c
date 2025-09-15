@@ -1,7 +1,7 @@
 /*
 Q13: Write a program to input a year and check whether it is a leap year or not using conditional statements.
-
 Sample Test Cases:
+
 Input 1:
 2020
 Output 1:
