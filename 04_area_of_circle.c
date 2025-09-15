@@ -1,6 +1,6 @@
 /*
-Q4: Write a program to calculate the area and circumference of a circle given its radius.
 
+Q4: Write a program to calculate the area and circumference of a circle given its radius.
 Sample Test Cases:
 Input 1:
 7
