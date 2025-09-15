@@ -1,7 +1,7 @@
 /*
 Q6: Write a program to swap two numbers using a third variable.
-
 Sample Test Cases:
+
 Input 1:
 3 5
 Output 1:
