@@ -1,6 +1,6 @@
 /*
-Q15: Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 
+Q15: Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 Sample Test Cases:
 Input 1:
 A
