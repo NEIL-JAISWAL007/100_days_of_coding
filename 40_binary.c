@@ -9,7 +9,6 @@ Input 2:
 1111
 Output 2:
 0000
-
 */
 #include <stdio.h>
 
