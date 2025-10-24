@@ -11,8 +11,8 @@ Input 2:
 20
 Output 2:
 2 3 5 7 11 13 17 19
-
 */
+
 #include <stdio.h>
 int main()
 {
